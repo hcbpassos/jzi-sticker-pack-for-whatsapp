@@ -1,0 +1,133 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.hugocastelani.whatsappjzistickerpack",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Just Zoo It",
+      "publisher": "Hugo Castelani",
+      "tray_image_file": "tray_JZI.png",
+      "stickers": [
+        {
+          "image_file": "01_JZI_doge.webp",
+          "emojis": ["🐶", "🐕", "🤨"]
+        },
+        {
+          "image_file": "02_JZI_bored_cat.webp",
+          "emojis": ["🐈","🐱", "😑"]
+        },
+        {
+          "image_file": "05_JZI_facepalming_bear.webp",
+          "emojis": ["🐻", "🤦️"]
+        },
+        {
+          "image_file": "06_JZI_thoughtful_gorilla.webp",
+          "emojis": ["🤔", "🦍", "🐵"]
+        },
+        {
+          "image_file": "07_JZI_perplexed_cat.webp",
+          "emojis": ["🐈","🐱", "😧"]
+        },
+        {
+          "image_file": "08_JZI_malicious_rat.webp",
+          "emojis": ["😏", "🐀", "🐭"]
+        },
+        {
+          "image_file": "09_JZI_astonished_raccoon.webp",
+          "emojis": ["🦝", "😦", "🤭"]
+        },
+        {
+          "image_file": "10_JZI_happy_wolf.webp",
+          "emojis": ["🐺", "🐶", "😀"]
+        },
+        {
+          "image_file": "12_JZI_amazed_cat.webp",
+          "emojis": ["🐈", "🐱", "😳"]
+        },
+        {
+          "image_file": "14_JZI_focused_bird.webp",
+          "emojis": ["🐦", "😠", "🧐"]
+        },
+        {
+          "image_file": "15_JZI_amazed_koala.webp",
+          "emojis": ["🐨", "😦️", "😧"]
+        },
+        {
+          "image_file": "16_JZI_curious_pig.webp",
+          "emojis": ["🐷", "🐖", "😊"]
+        },
+        {
+          "image_file": "17_JZI_pleasureful_goat.webp",
+          "emojis": ["🐐", "😋", "🥴"]
+        },
+        {
+          "image_file": "18_JZI_lovely_elephant.webp",
+          "emojis": ["🐘", "💐", "😘"]
+        },
+        {
+          "image_file": "19_JZI_sad_chick.webp",
+          "emojis": ["🐤", "🐥", "😔"]
+        },
+        {
+          "image_file": "20_JZI_lovely_hamster.webp",
+          "emojis": ["🐹", "❤️", "😘"]
+        },
+        {
+          "image_file": "21_JZI_caressed_dog.webp",
+          "emojis": ["🐕", "🐶", "🙂"]
+        },
+        {
+          "image_file": "22_JZI_cute_cat.webp",
+          "emojis": ["🐈", "🐱", "🤗"]
+        },
+        {
+          "image_file": "23_JZI_owl_couple.webp",
+          "emojis": ["🦉", "💑", "❤"]
+        },
+        {
+          "image_file": "24_JZI_laughy_dog.webp",
+          "emojis": ["🐕", "🐶", "😆"]
+        },
+        {
+          "image_file": "25_JZI_sleepy_raccoon_kind.webp",
+          "emojis": ["😴", "💤"]
+        },
+        {
+          "image_file": "26_JZI_lazy_dog.webp",
+          "emojis": ["🐕", "🐶", "🙄"]
+        },
+        {
+          "image_file": "28_JZI_rooster.webp",
+          "emojis": ["🐓", "🌄", "🌅"]
+        },
+        {
+          "image_file": "29_JZI_enough_monkey.webp",
+          "emojis": ["🐵", "✋", "🛑"]
+        },
+        {
+          "image_file": "30_JZI_birthday_dog.webp",
+          "emojis": ["🥳", "🎂", "🎉"]
+        },
+        {
+          "image_file": "31_JZI_angry_dog.webp",
+          "emojis": ["🐕", "🐶", "💢"]
+        },
+        {
+          "image_file": "32_JZI_cute_seal.webp",
+          "emojis": ["🙂", "😗", "🥰"]
+        },
+        {
+          "image_file": "33_JZI_edgy_hedgehog.webp",
+          "emojis": ["🦔", "🖕"]
+        },
+        {
+          "image_file": "34_JZI_silly_cat.webp",
+          "emojis": ["🐈", "🐱", "😋"]
+        },
+        {
+          "image_file": "35_JZI_bored_dog.webp",
+          "emojis": ["🐕", "🐶", "😴"]
+        }
+      ]
+    }
+  ]
+}
